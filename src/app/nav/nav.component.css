@@ -1,0 +1,8 @@
+#nav {
+    background-color: lightblue; 
+    width: 400px; 
+    height: 500px; 
+    margin-right: 100px;
+    vertical-align: top;
+    display: inline-block;
+}
